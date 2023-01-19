@@ -1,0 +1,358 @@
+body{
+	background-color: grey;
+	overflow-x: hidden;
+    margin: 0;
+    margin-top: 0px;
+}
+.header1{
+	background-image: url(../resources/bgPosterBagan.jpg);
+	width: 100%;
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: 100% 500px;
+	border-radius: 10px;
+	
+}
+.header{
+	padding-top: 20px;
+	text-align: center;
+    	color: white;
+    	font-size: 50px;
+    	margin: 0;
+    	width: 100%;
+    	top: 40%;
+    	transform: translate(0, -50%);
+}
+.text1{
+	padding-top: 30px;
+	text-align: center;
+    	color: white;
+   	font-size: 20px;
+    	margin: 0;
+    	width: 100%;
+    	top: 40%;
+    	position: relative;
+}
+.aboutBagan{
+	width: 100%;
+	padding: 100px;
+	text-align: center;
+}
+.aboutbaganText{
+	width: 30%;
+	font-size: 25px;
+	color: white;
+	padding: 20px;
+	letter-spacing: 1px;
+}
+.aboutbaganImage{
+	width: 60%;
+}
+div{
+	float: left;
+}
+.welCome{
+	margin-left: 40%;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+}
+.aboutbaganImage>img{
+	width: 60%;
+	height: 200px;
+	padding: 20px;
+	box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+}
+.getTo{
+	padding-left: 20px;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+}
+.gettingTo{
+	width: 100%;
+	padding: 100px;
+	text-align: center;
+}
+.gettingtoText{
+	width: 30%;
+	font-size: 25px;
+	color: white;
+	padding: 20px;
+	letter-spacing: 1px;
+}
+.gettingtoImage{
+	width: 60%;
+}
+.gettingtoImage>img{
+	width: 60%;
+	height: 200px;
+	padding: 20px;
+	box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+}
+.bestTime{
+	padding-left: 20px;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+}
+.besttimetogo{
+	width: 100%;
+	padding: 100px;
+	text-align: center;
+}
+.besttimeText{
+	width: 30%;
+	font-size: 25px;
+	color: white;
+	padding: 20px;
+	letter-spacing: 1px;
+}
+.besttimeImage{
+	width: 60%;
+}
+.besttimeImage>img{
+	width: 60%;
+	height: 200px;
+	padding: 20px;
+	box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+}
+
+.mainArea{
+	padding-left: 20px;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+}
+.mainareainBagan{
+	width: 100%;
+	padding: 100px;
+	text-align: center;
+}
+.mainareaText{
+	width: 30%;
+	font-size: 25px;
+	color: white;
+	padding: 20px;
+    letter-spacing: 1px;
+}
+.mainareaImage{
+	width: 60%;
+}
+.mainareaImage>img{
+	width: 60%;
+	height: 200px;
+	padding: 20px;
+	box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+}
+
+.getAround{
+	padding-left: 20px;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+}
+.gettingAround{
+	width: 100%;
+	padding: 100px;
+	text-align: center;
+}
+.getaroundText{
+	width: 30%;
+	font-size: 25px;
+	color: white;
+	padding: 20px;
+	letter-spacing: 1px;
+}
+.getaroundImage{
+	width: 60%;
+}
+.getaroundImage>img{
+	width: 60%;
+	height: 200px;
+	padding: 20px;
+	box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+}
+
+
+.hotairBalloon{
+	width: 100%;
+	padding: 100px;
+	text-align: center;
+}
+.hotairballoonText{
+	width: 30%;
+	font-size: 25px;
+	color: white;
+	padding: 20px;
+	letter-spacing: 1px;
+}
+.airballoonImage{
+	width: 60%;
+}
+.airballoonImage>img{
+	width: 60%;
+	height: 200px;
+	padding: 20px;
+	box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+}
+
+.mustSee{
+	padding-left: 20px;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+}
+.mustseeinBagan{
+	width: 100%;
+	padding: 100px;
+	text-align: center;
+}
+.mustseeText{
+	width: 30%;
+	font-size: 25px;
+	color: white;
+	padding: 20px;
+	letter-spacing: 1px;
+}
+.mustseeImage{
+	width: 60%;
+}
+.mustseeImage>img{
+	width: 60%;
+	height: 250px;
+	padding: 20px;
+	box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+}
+.conclusion{
+	width: 100%;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+}
+.notice{
+	color: #383838;
+	font-size: 25px;
+	padding: 30px;
+}
+.text{
+    margin-top: 10px;
+    background-color: black;
+    height: 300px;
+    color: white;
+    background-image: url(../resources/baganBgposter.png);
+    background-size: 115%;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease, ease;
+}
+.header1{
+    background-image: url(../resources/baganBgposter.png);
+    width: 100%;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    border-radius: 10px;
+    box-shadow:0 5px 12px 0 rgba(0,0,0,0.4);
+}
+.header{
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin: 0;
+    width: 100%;
+    position: relative;
+    top: 40%;
+    transform: translate(0, -50%);
+}
+.text:hover{
+    transform: scale(1.02);
+    background-color: inherit;
+    box-shadow:0 5px 15px 0 rgba(0,0,0,0.5);
+}
+.localFood{
+    margin-top: 10px;
+    background-color: black;
+    margin-left: 30px;
+    height: 300px;
+    background-image: url(../resources/localfoodBagan.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.body>div{
+    margin-top: 50px;
+    width: 40%;
+    float: left;
+    margin-left: 105px;
+}
+.headerText{
+    padding: 5%;
+}
+.header{
+    text-align: center;
+}
+h2{
+    font-size: 22px;
+    text-align: center;
+    margin-left: 37%;
+    width: 26%;
+    border-radius: 20px;
+    background-color: red;
+    box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+    transition-duration: 0.3s, 0.3s;
+    transition-property: background-color, transform;
+    transition-timing-function: ease, ease;
+}
+h2:hover{
+    transform: scale(1.06);
+    background-color: lightblue;
+    box-shadow:0 5px 14px 0 rgba(0,0,0,0.5);   
+}
+.textBagan{
+    padding-top: 35px;
+}
+.localFood{
+    margin-top: 10px;
+    background-color: black;
+    height: 300px;
+    color: white;
+    background-image: url(../resources/localfoodBagan.jpg);
+    background-size: 115%;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    box-shadow:0 5px 12px 0 rgba(0,0,0,0.5);
+    transition-duration: 0.3s, 0.3s;
+    transition-timing-function: ease, ease;
+
+}
+.localFood:hover{
+    transform: scale(1.02);
+    background-color: inherit;
+    box-shadow:0 5px 15px 0 rgba(0,0,0,0.5);
+}
+.back{
+            font-size: 20px;
+            background-color: gray;
+            border-radius: 10px;
+            padding: 10px;
+            display: inline-block;
+            width: 25px;
+            height: 25px;
+            text-align: center;
+            font-weight: 900;
+            color: whitesmoke;
+            position: fixed;
+            top: 75px;/*The height of the nevigation bar*/
+            left: 10px;
+         	transition-property: transform background-color;
+            transition-duration: 0.2s;
+            transition-timing-function: ease;
+        }
+        .back:hover{
+            transform: scale(1.12);
+            background-color: #5c5c5c;
+        }
